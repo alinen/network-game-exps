@@ -1,0 +1,55 @@
+.vs
+.DS_Store
+*.zip
+GTAGS
+GPATH
+GRTAGS
+.vscode
+DevIL
+zzz
+*.asv
+*.bz2
+bin*
+build*
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# Executables
+*.out
+*.app
+
+# Crap
+Debug/
+Release/
+Debug-soln/
+Release-soln/
+*.ncb
+*.user
+*.pdb
+*~
+*.swp
+*.sdf
+bin/*.exe
+lib/*
+Warrok.fbm/
+*.swo
